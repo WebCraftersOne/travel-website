@@ -760,7 +760,12 @@
   font-size: 17px;
 }
 }
-
+@media (max-width: 400px){
+  .container_f{
+    width: 260px;
+    margin: 0 auto;
+  }
+}
 /* @media (min-width: 576px) { ... }
 
 // Medium devices (tablets, 768px and up)
