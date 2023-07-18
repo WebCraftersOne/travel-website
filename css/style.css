@@ -169,6 +169,7 @@
   border-radius: 5px;
   margin: 10px;
   color: #06080e;
+  transform: rotate(10deg);
 }
 
 .place_title {
